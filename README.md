@@ -26,6 +26,7 @@
 
 npm i ionic2-janalytics --save
 
+详细使用方法请参考 https://github.com/jpush/cordova-plugin-janalytics/blob/master/www/JAnalytics.js
 
 ```
 
