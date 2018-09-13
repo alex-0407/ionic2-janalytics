@@ -11,14 +11,13 @@
 
 >  传送门1：[vue2后台管理系统](https://github.com/Alex-0407/vue2-admin-grace)
 
->  传送门2：[ionic3-awesome](https://github.com/Alex-0407/ionic3-awesome)
+>  传送门2：[ionic3-awesome自定义常用组件及实例](https://github.com/Alex-0407/ionic3-awesome)
 
 ## 使用方法
 
 ```
 
 npm i ionic2-janalytics --save
-
 
 
 ```
