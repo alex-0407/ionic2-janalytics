@@ -27,11 +27,10 @@
 npm i ionic2-janalytics --save
 
 
->  传送门4：[ionic2-wechat(ionic native插件)](https://github.com/Alex-0407/ionic2-wechat)
+```
 
 >  详细使用方法请参考[JAnalytics.js](https://github.com/jpush/cordova-plugin-janalytics/blob/master/www/JAnalytics.js)
 
-```
 
 #### 欢迎关注我的微信公众号或头条号`全栈弄潮儿` ，获取更多学习资源及技术文章等
 
