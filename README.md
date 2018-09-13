@@ -17,9 +17,7 @@
 
 >  传送门3：[微信小程序——前端排行榜](https://github.com/Alex-0407/weapp-web-rank)
 
->  传送门4：[ionic2-janalytics(ionic native插件)](https://github.com/Alex-0407/ionic2-janalytics)
-
->  传送门5：[ionic2-wechat(ionic native插件)](https://github.com/Alex-0407/ionic2-wechat)
+>  传送门4：[ionic2-wechat(ionic native插件)](https://github.com/Alex-0407/ionic2-wechat)
 
 
 ## 使用方法
