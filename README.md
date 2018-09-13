@@ -23,9 +23,7 @@
 ## 使用方法
 
 ```
-
 npm i ionic2-janalytics --save
-
 
 ```
 
