@@ -1,4 +1,5 @@
-# ionic2-janalytics
+## ionic2-janalytics, a ionic native plugin of https://github.com/jpush/cordova-plugin-janalytics
+
 [![npm version](https://img.shields.io/npm/v/ngx-modal-dialog.svg)](https://www.npmjs.com/package/ionic2-janalytics)
 
 ## 来了就留个 :feet:吧，star一下证明你来过  :stuck_out_tongue_closed_eyes:
